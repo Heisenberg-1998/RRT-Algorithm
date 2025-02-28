@@ -4,7 +4,7 @@ The pseudocode for the algorithm is shown below:
 ![RRT-Algorithm/image/pseudocode.png](image/pseudocode.png)
 
 # How to use this code?
-- Before run `rrt.py`, please ensure that there is a `result` folder in the code directory, and a `obstacles.csv` file in `result` folder, which the obstacles are stored according to the format below:
+- Before run `rrt.py`, please ensure that there is a `result` folder in code directory, and a `obstacles.csv` file in `result` folder, which obstacles are stored according to the format below:
 ```csv
 # obstacles.csv file for V-REP kilobot motion planning scene.
 # All lines beginning with a # are treated as a comment and ignored.
