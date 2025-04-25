@@ -55,7 +55,7 @@ When `rrt.py` finishes and finds a path, the program will generate `edges.csv`, 
 
 # Visualize the algorithm
 The visualization of algorithm is based on [**the CoppeliaSim robot simulation environment**](https://www.coppeliarobotics.com/) software, please download scene 5 from [this link](https://hades.mech.northwestern.edu/index.php/CoppeliaSim_Introduction).
-In the Coppeliasim, please open scene 5 and copy th `result` path, you can see the algorithm after pressing "Open Files".
+In the Coppeliasim, please open scene 5 and copy th `result` path, you can visualize the algorithm after pressing "Open Files".
 ![alt text](image/CoppliaSim.png)
 
 # Next Step
